@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037644506636",
+    "project_id": "jojoproject-642af",
+    "storage_bucket": "jojoproject-642af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037644506636:android:da8944399403fb65f0b029",
+        "android_client_info": {
+          "package_name": "com.example.jojoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037644506636-lbucf5ke8t8pp96ecq2lmjci3r0jvr5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbg8Y7qjXYlj_npd1V7uKir5ns-C0Je_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037644506636-lbucf5ke8t8pp96ecq2lmjci3r0jvr5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
